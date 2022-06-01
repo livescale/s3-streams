@@ -1,6 +1,6 @@
 {
-	"name": "s3-streams",
-	"version": "0.4.0",
+	"name": "@livescale/s3-streams",
+	"version": "0.4.1",
 	"description": "Use readable/writeable streams for manipulating S3 objects.",
 	"author": "Izaak Schroeder <izaak.schroeder@gmail.com>",
 	"keywords": [
@@ -39,9 +39,5 @@
 		"chai-as-promised": "^7.1.1",
 		"sinon": "^7.2.2",
 		"sinon-chai": "^3.3.0"
-	},
-	"engines": {
-		"node": "^0.8 || ^0.10 || ^0.12",
-		"iojs": "^1.2.0"
 	}
 }
